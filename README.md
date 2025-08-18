@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**AtaK123456/AtaK123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AtaK123456/AtaK123456** is a ✨ _special_ ✨ repository because its `README.md`.
 
 
 - I have knowledge about html and css
