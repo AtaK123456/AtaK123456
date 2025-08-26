@@ -5,7 +5,7 @@
 
 
 - I have knowledge about html and css
-- 🌱 I’m currently learning , pyhton
+- 🌱 I’m currently learning Pyhton, JavaScript and MySql.
 - 🤔 I’m looking for help with , learning programming langauges
 - 📫 How to reach me: atakaansavasci@gmail.com
 - I am currently a 3rd year student at Girne American University, Department of Management Information Systems.
