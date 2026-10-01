@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React.
 - 🤔 I’m looking for help with , learning programming langauges
 - 📫 How to reach me: atakaansavasci@gmail.com
-- I am currently a 4rd year student at Girne American University, Department of Management Information Systems.
+- I am graduated at Girne American University, Department of Management Information Systems.
 
 
 
